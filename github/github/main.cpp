@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-	cout << "ciao maondo";
+	cout << "ciao mondo";
+	cout << "\n" << "sono nuovo";
 
 	return 0;
 }
